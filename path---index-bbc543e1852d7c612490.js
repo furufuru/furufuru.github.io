@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Furufuru"}},allMarkdownRemark:{edges:[{node:{excerpt:"PowerPoint等のドキュメント系ソフトはクリップボードにコピーした物のスタイル等もペーストできます。 邪魔な機能といえば邪魔ですが、スライド等を作る際にハイライトされたコードを貼るといった事に使えます。 HTML…",frontmatter:{path:"/ppt-highlight/",date:"2017/10/15",title:"PoewrPointでコードをハイライトするやつ"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-bbc543e1852d7c612490.js.map
