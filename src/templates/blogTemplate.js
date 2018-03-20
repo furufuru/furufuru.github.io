@@ -9,7 +9,7 @@ export default function Template({
     <div className="blog-post-container">
       <article className="blog-post">
         <div style={{ textAlign: 'center', marginBottom: '16px' }}>
-          <h2>{frontmatter.title}</h2>
+          <h2 id='title'>{frontmatter.title}</h2>
           <p>{frontmatter.date}</p>
         </div>
         <div

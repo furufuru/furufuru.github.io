@@ -9,7 +9,7 @@ const IndexPage = ({data}) => {
   			const { date, path, title } = node.node.frontmatter
   			return (
   			<article key={node.id}>
-  			  <h2><Link style={{ color: '#000' }} to={path}>{ title }</Link></h2>
+  			  <h2><Link style={{ color: '#000' }} to={path + '#title'}>{ title }</Link></h2>
   			  <p>posted on { date }</p>
   			</article>
   			)
